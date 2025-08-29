@@ -1,3 +1,18 @@
+version 2.0.0.UNSTABLE
+1. Added core, for convenient API modification and integration(BETA).
+2. Image functions were moved to a separate module(image_client.py)
+3. Added new functions in image_client.py:
+    - ImageClient.enhance - image enhancement
+    - ImageClient.remove_watermark - removing watermarks
+    - ImageClient.remove_background - removing background
+4. Added new module utils/writing.py and new class/client WritingClient
+5. New functions in utils/writing.py:
+    - WritingClient.send_message:
+        - parameters: input, instruction, model
+        - returns: {'content': str}
+    - WritingClient.get_models_list:
+        - returns: list of available models
+ 
 version 1.3.0
 Added:
 1. ability to pass an image link to image_to_prompt
