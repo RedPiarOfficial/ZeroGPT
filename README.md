@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-1.3.0-blue.svg?style=for-the-badge)](https://github.com/username/project/releases)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg?style=for-the-badge)](https://github.com/username/project/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
 ![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/stage-alpha-red.svg?style=for-the-badge)
@@ -250,7 +250,7 @@ dummy.load("context.bin")
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
